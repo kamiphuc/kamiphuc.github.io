@@ -1,4 +1,4 @@
-kaminguyen.github.io
+karmiphuc.github.io
 =====================
 
-A demo for Github Pages. See it [here](http://kamiphuc.github.io).
+A demo for Github Pages. See it [here](http://karmiphuc.github.io).
