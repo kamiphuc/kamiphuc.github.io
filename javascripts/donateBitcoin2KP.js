@@ -338,8 +338,8 @@ CoinWidgetCom.go({
 	, alignment: "bl"
 	, qrcode: true
 	, auto_show: true
-	, lbl_button: "?ng h? Bitcoin"
-	, lbl_address: "�?a ch? v� Bitcoin:"
-	, lbl_count: "ngu?i ?ng h?"
+	, lbl_button: "Ủng hộ Bitcoin"
+	, lbl_address: "Địa chỉ Ví Bitcoin:"
+	, lbl_count: "người ủng hộ"
 	, lbl_amount: "BTC"
 });
