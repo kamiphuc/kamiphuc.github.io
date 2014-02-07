@@ -337,7 +337,7 @@ CoinWidgetCom.go({
 	, counter: "count"
 	, alignment: "bl"
 	, qrcode: true
-	, auto_show: false
+	, auto_show: true
 	, lbl_button: "Ủng hộ Bitcoin"
 	, lbl_address: "Địa chỉ Ví Bitcoin:"
 	, lbl_count: "người ủng hộ"
